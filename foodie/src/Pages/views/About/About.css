@@ -1,0 +1,11 @@
+.about{
+    padding:0 10vw;
+    box-sizing: border-box;
+    width:100%;
+}
+.gimme img {
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+    object-position: left;
+}
